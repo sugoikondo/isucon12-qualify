@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/isuports?autoReconnect=true&allowPublicKeyRetrieval=true&useSSL=false
+    username: isucon
+    password: isucon
+  threads:
+    virtual:
+      enabled: true
