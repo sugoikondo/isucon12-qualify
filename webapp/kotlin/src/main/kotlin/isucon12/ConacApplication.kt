@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class ConacApplication
 
 fun main(args: Array<String>) {
-	runApplication<ConacApplication>(*args)
+    runApplication<ConacApplication>(*args)
 }
