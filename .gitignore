@@ -5,4 +5,4 @@ go/
 webapp/kotlin/.gradle/
 webapp/kotlin/.idea/
 webapp/kotlin/build/
-
+.sdkmanrc
